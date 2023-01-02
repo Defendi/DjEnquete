@@ -1,2 +1,7 @@
 # DjEnquete
-Sistema demo de enquetes construído em python/django
+
+Demo poll system written in python/django
+
+## Getting started
+
+
