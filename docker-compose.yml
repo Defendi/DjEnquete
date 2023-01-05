@@ -1,0 +1,11 @@
+version: '3.5'
+services:
+    testsample:
+        image: djenquete:last
+        build: 
+            context: .
+            dockerfile: Dockerfile
+        ports:
+           - 8000:8000
+        network_mode: "host"
+
